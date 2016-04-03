@@ -11,3 +11,8 @@ To install / run:
     node server.js
 
 To be polite, please create your own private IRC channel for testing.
+
+## Testing
+To run the tests:
+
+    npm test
