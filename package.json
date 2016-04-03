@@ -7,7 +7,7 @@
   },
   "dependencies": {
     "bz": "*",
-    "irc" : "*",
+    "irc": "*",
     "repeat": "0.0.*",
     "slack-client": "*"
   },
